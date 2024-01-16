@@ -1,0 +1,31 @@
+Extensions:
+  - https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
+  - https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+  - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
+HTML validator:
+  - https://validator.w3.org/nu/#textarea
+HTML/CSS/JS functionality si se puede utilizar en todos navegadores:
+  - https://caniuse.com/
+  - https://developer.mozilla.org/en-US/
+
+Open Graph meta tags:
+  - https://ogp.me/
+  - https://ahrefs.com/blog/open-graph-meta-tags/
+
+HTML tags:
+  - html
+  - head
+  - body
+  - meta
+  - link
+  - script
+  - div
+  - h1
+  - h2
+  - a
+  - button
+  - form
+  - input
+  - table
+  - img
